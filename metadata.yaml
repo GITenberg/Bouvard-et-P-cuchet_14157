@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/574
     wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14157#Bouvard-et-P-cuchet
 gutenberg_bookshelf:
 - FR Littérature
 - Best Books Ever Listings
