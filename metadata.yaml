@@ -1,0 +1,33 @@
+_repo: Bouvard-et-P-cuchet_14157
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flaubert, Gustave
+    birthdate: 1821
+    deathdate: 1880
+    gutenberg_agent_id: '574'
+    url: http://www.gutenberg.org/2009/agents/574
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- Best Books Ever Listings
+gutenberg_issued: '2004-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14157'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Middle class -- France -- History -- 19th century -- Fiction'
+- !lcsh 'French fiction -- 19th century'
+- !lcsh 'Middle class -- France -- Retirement -- Fiction'
+title: Bouvard et Pécuchet
+url: http://www.gutenberg.org/ebooks/14157
